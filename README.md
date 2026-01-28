@@ -419,8 +419,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Authors & Contributors
 
-- **Your Name** - Initial work - [@rey344](https://github.com/rey344)
-
+- **rey344** - Initial work - [@rey344](https://github.com/rey344)
 See [CONTRIBUTORS.md](./CONTRIBUTORS.md) for all contributors.
 
 ---
